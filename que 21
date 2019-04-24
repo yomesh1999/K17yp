@@ -71,9 +71,4 @@ double page_fault_rate(double servicePageFaultEmpty,double servicePageFaultMod,d
 
 	pageFault = numErator/denOminator;
 	return pageFault;
-
-// 2nd time
-// 3rd time
-// 4th time
-// 5th time
 }
